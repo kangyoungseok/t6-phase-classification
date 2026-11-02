@@ -1,0 +1,9 @@
+private_data/
+persons/
+outputs/
+*.pt
+*.pth
+*.npz
+.ipynb_checkpoints/
+__pycache__/
+.env
